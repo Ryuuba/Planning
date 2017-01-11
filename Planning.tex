@@ -4,23 +4,30 @@
 
 \begin{document}
 
-\begin{minipage}[b]{0.17\linewidth}
-	\includegraphics[width=3cm]{uampro}
-\end{minipage}
-\begin{minipage}[b]{0.75\linewidth}
-	\large \textbf{Universidad Autónoma Metropolitana}\\ % 
-	{\textbf{Unidad Azcapotzalco}}\\
-	\color{Black} División de Ciencias Básicas e Ingeniería\\ % 
-	Departamento de Electrónica
-\end{minipage}
+\begin{flushright}
+	{\small
+		\begin{minipage}[b]{0.17\linewidth}
+			\includegraphics[width=3cm]{uampro}
+		\end{minipage}
+		\begin{minipage}[b]{0.3\linewidth}
+			\textbf{Universidad Autónoma Metropolitana}\\ % 
+			\red{\textbf Unidad Azcapotzalco}\\
+			División de Ciencias Básicas e Ingeniería\\ % 
+			Departamento de Electrónica
+		\end{minipage}
+	}
+\end{flushright}
+
+{\Large \red{Título de la UEA}}\\
+{\large \gray{Programa de estudio}}
 \vspace{0.2cm} 
+
 \begin{multicols}{2}
 
 \section*{Datos del curso}
 \color{black}
 \begin{itemize}
 	\itemsep-0.2em
-	\item Nombre: \textbf{UEA}
 	\item Créditos: 9
 	\item Horas de teoría: 4.5 
 	\item Horario: lunes, miércoles y viernes de 13:00 a 14:30
@@ -70,5 +77,8 @@ Al finalizar el curso el alumno será capaz de:
 %----------------------------------------------------------------------------------------
 %	REFERENCIAS
 %----------------------------------------------------------------------------------------
+\nocite{IEEEhowto:IEEEtranpage,IEEEexample:shellCTANpage,IEEEexample:IEEEwebsite}
+\bibliographystyle{IEEEtran}
+\bibliography{IEEEexample}
 \end{multicols}
 \end{document}

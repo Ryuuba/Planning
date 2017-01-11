@@ -1,7 +1,6 @@
 \usepackage{multicol} 
     \columnsep=40pt 
     \columnseprule=1pt 
-\usepackage{sans} 
 \usepackage[font=small,labelfont=bf]{caption} 
 \usepackage[cm]{fullpage}
 \usepackage{listingsutf8} % Embebbed formatted code to the file
@@ -19,9 +18,9 @@
    \definecolor{Wolf}{RGB}{64,64,64}
 \usepackage{amsfonts, amsmath, amsthm, amssymb}
 \usepackage{sectsty}
-    \chapterfont{\color{Xoc}}
-    \sectionfont{\color{Xoc}\fontsize{12}{11}\selectfont}
-    \subsectionfont{\color{Xoc}}
+    \chapterfont{\color{Wolf}}
+    \sectionfont{\color{Wolf}\fontsize{12}{11}\selectfont}
+    \subsectionfont{\color{Wolf}}
 \usepackage{titlesec}
     \titlespacing\section{0pt}{12pt plus 4pt minus 2pt}{0pt plus 2pt minus 2pt}
     \titlespacing\subsection{0pt}{12pt plus 4pt minus 2pt}{0pt plus 2pt minus 2pt}
@@ -32,8 +31,8 @@
    linkcolor=black,
    citecolor=black,
    linkbordercolor=white,
-   urlcolor=Xoc,
-   citecolor=Xoc
+   urlcolor=Azc,
+   citecolor=Azc
 }
 \usepackage{url} % Become references in links
 \usepackage[spanish,mexico]{babel} % Requiered for Mexican Spanish hyphenation and table names
@@ -75,3 +74,13 @@
 \renewcommand{\abstractname}{\flushleft \textcolor{Xoc}{Resumen}} % Uncomment to change the name of the abstract to something else
 \renewcommand{\lstlistingname}{Código} % Listing -> Code
 \renewcommand{\ALG@name}{Algoritmo}
+
+\newcommand{\white}[1]{\textcolor{white}{#1}}
+\newcommand{\red}[1]{\textcolor{Azc}{#1}}
+\newcommand{\blue}[1]{\textcolor{Xoc}{#1}}
+\newcommand{\orange}[1]{\textcolor{Cua}{#1}}
+\newcommand{\grape}[1]{\textcolor{Ler}{#1}}
+\newcommand{\green}[1]{\textcolor{Izt}{#1}}
+\newcommand{\gray}[1]{\textcolor{Wolf}{#1}}
+\newcommand{\eg}{\textit{e.g.}}
+\newcommand{\ie}{\textit{i.e.}}
