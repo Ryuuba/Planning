@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex Auxiliary/planning"] 1494204439 "Auxiliary/planning.aux" "Auxiliary/planning.bbl" "Auxiliary/planning" 1494204488
+["bibtex Auxiliary/planning"] 1494204439 "Auxiliary/planning.aux" "Auxiliary/planning.bbl" "Auxiliary/planning" 1494214092
   "./IEEEtran.bst" 1484164874 57844 85027029735be6f37652f92edbaf41d4 ""
-  "Auxiliary/planning.aux" 1494204468 1100 9f2821850a7f335fcf7fb5758fe5e197 ""
+  "Auxiliary/planning.aux" 1494214091 1100 9f2821850a7f335fcf7fb5758fe5e197 ""
   "Auxiliary/planning.bcf" 0 -1 0 ""
   "IEEEexample.bib" 1484165073 39685 a01aaaa9b9f4c6688142902508a22b8b ""
   (generated)
   "Auxiliary/planning.blg"
   "Auxiliary/planning.bbl"
-["pdflatex"] 1494204467 "planning.tex" "Auxiliary/planning.pdf" "planning" 1494204488
+["pdflatex"] 1494214090 "planning.tex" "Auxiliary/planning.pdf" "planning" 1494214092
   "/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/palatino/pplb8r.tfm" 1136768653 2532 9ad73cf4dd2173a847f2a5f5608e0b9a ""
@@ -134,15 +134,15 @@
   "/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1493264884 1888048 f2c5faed5981a516f406b2ccc20bff71 ""
   "/usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt" 1463979169 3873397 413fbfbbedb8e719ddc392043a7add02 ""
   "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
-  "Auxiliary/planning.aux" 1494204468 1100 9f2821850a7f335fcf7fb5758fe5e197 ""
+  "Auxiliary/planning.aux" 1494214091 1100 9f2821850a7f335fcf7fb5758fe5e197 ""
   "Auxiliary/planning.bbl" 1494204440 1461 b49deeb2fce8ae6fe609220190c59f24 "bibtex Auxiliary/planning"
-  "Auxiliary/planning.out" 1494204468 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "Auxiliary/planning.out" 1494214091 0 d41d8cd98f00b204e9800998ecf8427e ""
   "Logo/uampro.pdf" 1483816235 5272 ce14aa82ea835f42498fd04f8e1f1498 ""
-  "planning.tex" 1494204467 2206 f851c93a0ae8ea0a5ee429e8712fb07b ""
+  "planning.tex" 1494214088 2245 b7c83aa1b9c08b90d9bc4bb6be19324f ""
   "preamble.tex" 1484164894 3685 11dbc3d50a5715edbab43571a99f4951 ""
   (generated)
-  "Auxiliary/planning.aux"
-  "Auxiliary/planning.out"
-  "Auxiliary/planning.log"
   "Auxiliary/planning.pdf"
+  "Auxiliary/planning.out"
+  "Auxiliary/planning.aux"
+  "Auxiliary/planning.log"
   "Auxiliary/preamble.aux"

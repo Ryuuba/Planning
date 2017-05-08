@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  7 MAY 2017 19:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  7 MAY 2017 22:28
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1020,22 +1020,24 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `cmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 8.
 
 <Logo/uampro.pdf, id=3, 85.58412pt x 41.7001pt>
 File: Logo/uampro.pdf Graphic file (type pdf)
  <use Logo/uampro.pdf>
-Package pdftex.def Info: Logo/uampro.pdf used on input line 10.
-(pdftex.def)             Requested size: 85.35826pt x 41.59244pt.
-LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <9> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 13.
+Package pdftex.def Info: Logo/uampro.pdf used on input line 14.
+(pdftex.def)             Requested size: 56.9055pt x 27.72702pt.
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <7> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 19.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 27.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 29.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 27.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 29.
 
 (Auxiliary/planning.bbl
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10> not available
@@ -1045,38 +1047,38 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10> not available
 Package caption Warning: Unused \captionsetup[algorithm] on input line 47.
 See the caption package documentation for explanation.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 84.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 86.
 [1
 
 
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Logo/
 uampro.pdf>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 84.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 86.
  (Auxiliary/planning.aux
 LaTeX Info: Redefining \. on input line 28.
 LaTeX Info: Redefining \% on input line 28.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 84.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 84.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 86.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 86.
 Package rerunfilecheck Info: File `planning.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 84.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 86.
  ) 
 Here is how much of TeX's memory you used:
- 23066 strings out of 493014
- 417119 string characters out of 6133351
+ 23051 strings out of 493014
+ 417025 string characters out of 6133351
  511311 words of memory out of 5000000
- 26268 multiletter control sequences out of 15000+600000
- 26533 words of font info for 86 fonts, out of 8000000 for 9000
+ 26271 multiletter control sequences out of 15000+600000
+ 25918 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,6n,60p,10413b,739s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2016/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/
 2016/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on Auxiliary/planning.pdf (1 page, 49239 bytes).
+Output written on Auxiliary/planning.pdf (1 page, 49342 bytes).
 PDF statistics:
  37 PDF objects out of 1000 (max. 8388607)
  6 named destinations out of 1000 (max. 500000)
- 25606 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 18950 words of extra memory for PDF output out of 20736 (max. 10000000)
 
